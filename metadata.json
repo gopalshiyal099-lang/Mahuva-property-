@@ -1,0 +1,7 @@
+{
+  "name": "EstateFlow Pro CRM",
+  "description": "A high-end Real Estate CRM for managing property inventory, rentals, and leads with integrated AI-powered WhatsApp and SMS communication tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
